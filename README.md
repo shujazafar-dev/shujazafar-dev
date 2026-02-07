@@ -27,7 +27,6 @@
 - 🧠 Interests: system design, databases, distributed systems, devops, product engineering
 - 📍 Based in Pakistan 🇵🇰
 
----
 
 ## 🔗 Connect With Me
 
@@ -53,8 +52,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,redux,graphql,html,css,tailwind,webpack,jest,cypress,docker,linux,nginx,postgres,mysql,mongodb,redis,firebase,figma,rust&perline=11" />
 </p>
-
----
 
 ---
 
