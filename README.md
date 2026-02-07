@@ -58,17 +58,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shujazafar-dev&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shujazafar-dev&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="190" src="https://streak-stats.demolab.com?user=shujazafar-dev&hide_border=true&theme=tokyonight" alt="streak" />
-</p>
-
 ## 📊 Profile Summary
 
 <p align="center">
